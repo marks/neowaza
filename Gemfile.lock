@@ -8,7 +8,7 @@ GEM
     connection_pool (1.0.0)
     daemons (1.1.9)
     eventmachine (1.0.0)
-    facter (1.6.17)
+    facter (2.4.1)
     faraday (0.8.5)
       multipart-post (~> 1.1)
     foreman (0.61.0)
